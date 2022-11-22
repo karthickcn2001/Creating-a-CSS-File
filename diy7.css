@@ -1,0 +1,18 @@
+h1,h2,h3,h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: darkgrey;
+    color: rebeccapurple;
+}
+
+.pinkpara{
+    background-color: pink;
+}
+
+#boldfont{
+    font-weight: bold;
+}
+
+*{
+    font-style: italic;
+}
